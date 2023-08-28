@@ -21,23 +21,23 @@ pl: &DEFAULT_PL
     text: "Mamy ponad dwudziestoletnie doświadczenie w branży. Poniżej główne dziedziny naszej pracy."
     section: services
     list:
-      - title: "[Sprzęt](/hardware))"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "[Sprzęt](/hardware)"
+        desc: "Mikrokontrolery, komputery jednopłytkowe i przemysłowe."
         icon: fas fa-microchip
       - title: "[Programowanie](/programing)"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Klasyczne, embedded, backend."
         icon: fas fa-laptop-code
       - title: "[Elektronika](/electronics)"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Projektowanie, budowa i naprawa."
         icon: fas fa-memory
       - title: "[Prototypowanie](/prototyping)"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Modele, wydruki, symulacje, testy."
         icon: fas fa-chalkboard
       - title: "[Robotyka](/robotics)"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Roboty przemysłowe, systemy wizyjne."
         icon: fas fa-robot
       - title: "[PlayableElectronics](https://playableel.blogspot.com/)"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Nasza pasja: instrumenty i kontrolery dla muzyków."
         icon: fab fa-memory
         
   portfolio:
