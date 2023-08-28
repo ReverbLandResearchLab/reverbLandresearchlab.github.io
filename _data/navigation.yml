@@ -2,13 +2,34 @@
 # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
 # Configuration: Add to _config.yml
-# locale: "en-US"  [YOUR PREFERRED LOCALE]
+# locale: "pl-PL"  [YOUR PREFERRED LOCALE]
 #
 # How to use:
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
 
-# English (default)
+# Polish (default)
 # -----------------
+pl: &DEFAULT_PL
+  nav:
+    - title: "Oferta"
+      section: services
+    - title: "Portfolio"
+      section: portfolio
+    - title: "O nas"
+      section: about
+    - title: "Historia"
+      section: timeline
+    - title: "Zespół"
+      section: team
+    - title: "Kontakt"
+      section: contact
+    - title: "PlayableElectronics"
+      url: https://playableel.blogspot.com/
+pl-PL:
+  <<: *DEFAULT_PL
+
+# English
+# -------
 en: &DEFAULT_EN
   nav:
     - title: "Services"
@@ -23,8 +44,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "PlayableElectronics"
+      url: https://playableel.blogspot.com/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -33,26 +54,3 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
-
-# Spanish
-# -------
-es: &DEFAULT_ES
-  nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
