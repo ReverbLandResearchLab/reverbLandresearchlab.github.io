@@ -17,23 +17,23 @@ pl: &DEFAULT_PL
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Oferta"
+    text: "Mamy ponad dwudziestoletnie doświadczenie w branży. Poniżej główne dziedziny naszej pracy."
     section: services
     list:
-      - title: "Sprzęt"
+      - title: "[Sprzęt](/hardware))"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-microchip
-      - title: "Programowanie"
+      - title: "[Programowanie](/programing)"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop-code
-      - title: "Elektronika"
+      - title: "[Elektronika](/electronics)"
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-memory
-      - title: "Prototypowanie"
+      - title: "[Prototypowanie](/prototyping)"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-chalkboard
-      - title: "Robotyka"
+      - title: "[Robotyka](/robotics)"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-robot
       - title: "[PlayableElectronics](https://playableel.blogspot.com/)"
