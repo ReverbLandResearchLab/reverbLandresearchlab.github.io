@@ -21,16 +21,25 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Sprzęt"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-microchip #find more at https://fontawesome.com/icons
+      - title: "Programowanie"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fas fa-laptop-code
+      - title: "Elektronika"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
+        icon: fab fa-memory
+      - title: "Prototypowanie"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-chalkboard #find more at https://fontawesome.com/icons
+      - title: "Robotyka"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-robot
+      - title: "[PlayableElectronics](https://playableel.blogspot.com/)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-memory
+        
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
