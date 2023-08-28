@@ -23,7 +23,7 @@ pl: &DEFAULT_PL
       section: team
     - title: "Kontakt"
       section: contact
-    - title: "PlayableElectronics"
+    - title: "Blog (PE)"
       url: https://playableel.blogspot.com/
 pl-PL:
   <<: *DEFAULT_PL
