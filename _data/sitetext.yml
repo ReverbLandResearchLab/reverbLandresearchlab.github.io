@@ -38,11 +38,13 @@ pl: &DEFAULT_PL
         icon: fas fa-robot
       - title: "[PlayableElectronics](https://playableel.blogspot.com/)"
         desc: "Nasza pasja: instrumenty i kontrolery dla muzyków."
-        icon: fab fa-memory
+        img: "pe-logo_white.png"
+
+
         
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Zapraszamy do zapoznania się z naszym portfolio"
     section: portfolio
     closebutton: "Close Project"
 
