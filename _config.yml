@@ -23,7 +23,7 @@ description: "Agency Bootstrap theme converted to a Jekyll theme, plus new featu
 author     : Daniel Górny
 logo:     #optional, defaults to site title
  path: assets\img\reverbland-white.png
- height: 55 #height in px, defaults to 52px
+ height: 52 #height in px, defaults to 52px
 
 locale: "pl-PL" # See available languages in _data/sitetext.yml
 
