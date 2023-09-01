@@ -1,15 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+title: Vision system for riveting machine
+subtitle: Product placement in riveting machine using our smart camera. Very high precision (0.01 mm). Additional quality check and fast response time. STM-32 Camera with MicroPython on board. Works with Fanuc Robot using socket messaging communication. The camera also has a connector to power light with 24V which can be controlled using our board. Everything is enclosed in metal case with lens mount.
+image: assets/img/portfolio/riveting.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Vision system for riveting machine
+  subtitle: Product placement in riveting machine using our smart camera. Very high precision (0.01 mm). Additional quality check and fast response time. STM-32 Camera with MicroPython on board. Works with Fanuc Robot using socket messaging communication. The camera also has a connector to power light with 24V which can be controlled using our board. Everything is enclosed in metal case with lens mount.
+  thumbnail: assets/img/portfolio/riveting.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Product placement in riveting machine using our smart camera. Very high precision (0.01 mm). Additional quality check and fast response time. STM-32 Camera with MicroPython on board. Works with Fanuc Robot using socket messaging communication. The camera also has a connector to power light with 24V which can be controlled using our board. Everything is enclosed in metal case with lens mount.
 
 {:.list-inline}
 - Date: October 2019

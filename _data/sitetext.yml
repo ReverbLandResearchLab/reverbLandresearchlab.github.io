@@ -46,7 +46,7 @@ pl: &DEFAULT_PL
     title: "Portfolio"
     text: "Zapraszamy do zapoznania się z naszym portfolio"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Zamknij"
 
   timeline:
     title: "Timeline"

@@ -1,15 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
+title: Quality control using Machine Learning
+subtitle: Touch panel based on Raspberry Pi CM4, used for object detection and validation with special trained model, in real time. Camera streams image to panel and display validation results. If detected object is incorrect, panel displays alert with confirmation.
+image: assets/img/portfolio/quality.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: Quality control using Machine Learning
+  subtitle: Touch panel based on Raspberry Pi CM4, used for object detection and validation with special trained model, in real time. Camera streams image to panel and display validation results. If detected object is incorrect, panel displays alert with confirmation.
+  thumbnail: assets/img/portfolio/quality.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Touch panel based on Raspberry Pi CM4, used for object detection and validation with special trained model, in real time. Camera streams image to panel and display validation results. If detected object is incorrect, panel displays alert with confirmation.
 
 {:.list-inline}
 - Date: January 2017

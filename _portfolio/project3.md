@@ -1,15 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+title: Vision system for cardboard folding robot
+subtitle: ARM CPU board with linux, working with Basler camera and live preview with web interface. Program calculate cardboard position in 3D space and distance which can be measured with very high precision (1mm on entire stack's height). All working with red light and communicating with 6-axis Fanuc robot.
+image: assets/img/portfolio/cardboard.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Vision system for cardboard folding robot
+  subtitle: ARM CPU board with linux, working with Basler camera and live preview with web interface. Program calculate cardboard position in 3D space and distance which can be measured with very high precision (1mm on entire stack's height). All working with red light and communicating with 6-axis Fanuc robot.
+  thumbnail: assets/img/portfolio/cardboard.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+ARM CPU board with linux, working with Basler camera and live preview with web interface. Program calculate cardboard position in 3D space and distance which can be measured with very high precision (1mm on entire stack's height). All working with red light and communicating with 6-axis Fanuc robot.
 
 {:.list-inline}
 - Date: January 2017

@@ -1,18 +1,21 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/06-full.jpg
+title: System3000
+subtitle: Recovery of debts / sales of debts - Web portal
+image: assets/img/portfolio/system3000.jpg 
 alt: 
 
 caption:
-  title: Window
-  subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title: System3000
+  subtitle: Recovery of debts / sales of debts - Web portal
+  thumbnail: assets/img/portfolio/system3000.jpg 
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Category: Webapp<br/>
+Customer: System3000<br/>
+Backend: Django/Python<br/>
+Frontend: Bootstrap<br/>
+Database: Postres<br/>
+More: Complex logic/Document generation/Payments/Notifications/APIs
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- Date: Feb 2018 - Oct 2018
 

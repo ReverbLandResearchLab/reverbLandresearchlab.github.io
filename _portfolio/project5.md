@@ -1,18 +1,20 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
+title: Metalwit OEE/WMS
+subtitle: OEE data collection and WMS
+image: assets/img/portfolio/metalwit_oee_sm.jpg
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  title: Metalwit OEE/WMS
+  subtitle: OEE data collection and WMS
+  thumbnail: assets/img/portfolio/metalwit_oee_sm.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Category: Webapp<br>
+Customer: Metalwit<br>
+Backend: Django/Python<br>
+Frontend: W2UI<br>
+Database: Postres<br>
+More: Data collection from CNC machines, custom touch panels and dashboards. Custom linux nodes and network.<br>
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
-
+- Date: Jan 2019 - Dec 2021
