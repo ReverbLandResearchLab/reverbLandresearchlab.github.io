@@ -1,18 +1,17 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Custom smart cameras
+subtitle: Our 5MP ARM based smart camera with ethernet interface and light control. Programmed in MicroPython. Capable of direct socket communication with Fanuc (and other) robots.
+image: assets/img/portfolio/smart.jpg
+alt: Custom smart cameras
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Custom smart cameras
+  subtitle: Our 5MP ARM based smart camera with ethernet interface and light control. Programmed in MicroPython. Capable of direct socket communication with Fanuc (and other) robots.
+  thumbnail: assets/img/portfolio/smart.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Our 5MP ARM based smart camera with ethernet interface and light control. Programmed in MicroPython. Capable of direct socket communication with Fanuc (and other) robots.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Rok: 2022
+- Klient: Metalwit Robots Lab
 

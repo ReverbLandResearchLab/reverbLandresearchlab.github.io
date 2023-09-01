@@ -18,7 +18,7 @@ pl: &DEFAULT_PL
 
   services:
     title: "Oferta"
-    text: "Mamy ponad dwudziestoletnie doświadczenie w branży. Poniżej główne dziedziny naszej pracy."
+    text: "Mamy ponad 25 lat doświadczenia w branży. Poniżej główne dziedziny naszej pracy."
     section: services
     list:
       - title: "[Sprzęt](/hardware)"
@@ -80,9 +80,9 @@ pl: &DEFAULT_PL
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "O nas"
+    text: "kawałek historii"
+    body: "Wszysko zaczęło się od Basic-a na Commodore 64 :) ...a tak bardziej na poważnie to około 2001 roku, kiedy to Daniel Górny zaczął swoją profesjonalną przygodę z programowaniem. Wtedy były to głównie bazy danych MSSQL i MSAccess. Visual basic i inne tego typu technologie."
     section: about
 
   clients:
@@ -104,7 +104,7 @@ pl: &DEFAULT_PL
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "Nasz wspaniały zespół"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
