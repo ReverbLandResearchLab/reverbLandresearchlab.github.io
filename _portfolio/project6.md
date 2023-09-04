@@ -6,8 +6,8 @@ alt:
 
 caption:
   title: System3000
-  subtitle: Recovery of debts / sales of debts - Web portal
-  thumbnail: assets/img/portfolio/system3000.jpg 
+  subtitle: 
+  thumbnail: assets/img/portfolio/system3000_th.jpg 
 ---
 Category: Webapp<br/>
 Customer: System3000<br/>

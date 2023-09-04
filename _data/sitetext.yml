@@ -105,32 +105,22 @@ pl: &DEFAULT_PL
 
   team:
     title: "Nasz wspaniały zespół"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: ""
+    subtext: ""
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Daniel Górny"
+        role: "Właściciel"
+        image: assets/img/team/daniel.jpeg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/reverbrick
             icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://facebook.com/reverbrick
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/daniel-g%C3%B3rny-0a273284
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Bartosz Górny"
+        role: "Software Developer"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -142,18 +132,18 @@ pl: &DEFAULT_PL
 
   contact:
     title: "Kontakt"
-    text: "Lorem ipsum or call 123456789"
+    text: "Zapraszamy do kontaktu za pośrednictwem poniższego formularza"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
+    name: "Imię*"
+    name-validation: "Proszę wpisać imię."
     email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
+    email-validation: "Proszę wpisać adres email."
+    phone: "Telefon"
+    phone-validation: "Proszę wpisać nr telefonu."
+    message: "Wiadomość*"
+    message-validation: "Proszę wpisać wiadomość."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Wyślij wiadomość"
 
   footer:
     legal: "Polityka prywatności"

@@ -17,8 +17,6 @@ pl: &DEFAULT_PL
       section: portfolio
     - title: "O nas"
       section: about
-    - title: "Historia"
-      section: timeline
     - title: "Zespół"
       section: team
     - title: "Kontakt"

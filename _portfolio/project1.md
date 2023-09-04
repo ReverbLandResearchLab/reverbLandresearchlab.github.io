@@ -6,8 +6,8 @@ alt: Custom smart cameras
 
 caption:
   title: Custom smart cameras
-  subtitle: Our 5MP ARM based smart camera with ethernet interface and light control. Programmed in MicroPython. Capable of direct socket communication with Fanuc (and other) robots.
-  thumbnail: assets/img/portfolio/smart.jpg
+  subtitle: 
+  thumbnail: assets/img/portfolio/smart_th.jpg
 ---
 Our 5MP ARM based smart camera with ethernet interface and light control. Programmed in MicroPython. Capable of direct socket communication with Fanuc (and other) robots.
 

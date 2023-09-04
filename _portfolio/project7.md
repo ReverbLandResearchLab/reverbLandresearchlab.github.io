@@ -6,8 +6,8 @@ alt:
 
 caption:
   title: KUNA
-  subtitle: Webtool built to speed up an ease the usage of IFS ERP in repairs business. High traffic used by 600+ people.
-  thumbnail: assets/img/portfolio/kuna_sm.jpg 
+  subtitle: 
+  thumbnail: assets/img/portfolio/kuna_sm_th.jpg 
 ---
 Category: High Traffic/Data Collection<br/>
 Customer: Teleplan International<br/>

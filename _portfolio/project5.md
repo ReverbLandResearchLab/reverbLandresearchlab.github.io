@@ -6,8 +6,8 @@ alt:
 
 caption:
   title: Metalwit OEE/WMS
-  subtitle: OEE data collection and WMS
-  thumbnail: assets/img/portfolio/metalwit_oee_sm.jpg
+  subtitle: 
+  thumbnail: assets/img/portfolio/metalwit_oee_sm_th.jpg
 ---
 Category: Webapp<br>
 Customer: Metalwit<br>

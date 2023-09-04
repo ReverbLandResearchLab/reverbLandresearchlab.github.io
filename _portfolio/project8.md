@@ -6,8 +6,8 @@ alt:
 
 caption:
   title: Horus CRM v2
-  subtitle: Complex CRM and related tools for polish 3M reseller.
-  thumbnail: assets/img/portfolio/horuscrm.jpg 
+  subtitle: 
+  thumbnail: assets/img/portfolio/horuscrm_th.jpg 
 ---
 Complex CRM and related tools for polish 3M reseller.<br/>
 Category: CRM<br/>
