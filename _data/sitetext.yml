@@ -11,9 +11,9 @@
 # -----------------
 pl: &DEFAULT_PL
   header:
-    title: Witamy w ReverbLand Research Lab!
-    text: Miło Cię widzieć
-    button: Więcej o nas
+    title: "Witamy w ReverbLand Research Lab!"
+    text: "<h1>Miło Cię widzieć</h1>"
+    button: "Więcej o nas"
     buttonlink: "#services"
 
   services:
@@ -82,7 +82,7 @@ pl: &DEFAULT_PL
   about:
     title: "O nas"
     text: "kawałek historii"
-    body: "Wszysko zaczęło się od Basic-a na Commodore 64 :) ...a tak bardziej na poważnie to około 1996 roku, kiedy to Daniel Górny zaczął swoją profesjonalną przygodę z programowaniem. Wtedy były to głównie bazy danych MSSQL, MSAccess, Visual basic i inne tego typu technologie. Bardzo szybko wyspecjalizował się w dedykowanych systemach 'szytych na miarę'. Wystarczyło dodać do mieszanki pasję do elektroniki oraz przetwarzania sygnałów."
+    body: "Wszysko zaczęło się od Basic-a na Commodore 64 :) ...a tak bardziej na poważnie to około 1996 roku, kiedy to Daniel Górny zaczął swoją profesjonalną przygodę z programowaniem. Wtedy były to głównie bazy danych MSSQL, MSAccess, Visual basic i inne tego typu technologie. Sposoby programowania zmieniły się od tego czasu znacząco. Bardzo szybko wyspecjalizował się w dedykowanych systemach 'szytych na miarę'. Wystarczyło dodać do mieszanki pasję do elektroniki oraz przetwarzania sygnałów."
     section: about
 
   clients:
@@ -132,7 +132,7 @@ pl: &DEFAULT_PL
 
   contact:
     title: "Kontakt"
-    text: "Zapraszamy do kontaktu za pośrednictwem poniższego formularza"
+    text: "Zapraszamy do kontaktu za pośrednictwem poniższego formularza lub pod numerem: +48 517 451 563"
     section: contact
     name: "Imię*"
     name-validation: "Proszę wpisać imię."
