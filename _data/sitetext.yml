@@ -82,7 +82,7 @@ pl: &DEFAULT_PL
   about:
     title: "O nas"
     text: "kawałek historii"
-    body: "Wszysko zaczęło się od Basic-a na Commodore 64 :) ...a tak bardziej na poważnie to około 2001 roku, kiedy to Daniel Górny zaczął swoją profesjonalną przygodę z programowaniem. Wtedy były to głównie bazy danych MSSQL i MSAccess. Visual basic i inne tego typu technologie."
+    body: "Wszysko zaczęło się od Basic-a na Commodore 64 :) ...a tak bardziej na poważnie to około 1996 roku, kiedy to Daniel Górny zaczął swoją profesjonalną przygodę z programowaniem. Wtedy były to głównie bazy danych MSSQL, MSAccess, Visual basic i inne tego typu technologie. Bardzo szybko wyspecjalizował się w dedykowanych systemach 'szytych na miarę'. Wystarczyło dodać do mieszanki pasję do elektroniki oraz przetwarzania sygnałów."
     section: about
 
   clients:
