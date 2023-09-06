@@ -1,21 +1,19 @@
 ---
 title: KUNA
-subtitle: Webtool built to speed up an ease the usage of IFS ERP in repairs business. High traffic used by 600+ people.
+subtitle: Aplikacja webowa dla przyspieszenia i ułatwienia obsługi systemu IFS ERP w sektorze napraw. Wysoka dostępność.
 image: assets/img/portfolio/kuna_sm.jpg 
-alt: 
+alt: kuna
 
 caption:
   title: KUNA
   subtitle: 
   thumbnail: assets/img/portfolio/kuna_sm_th.jpg 
 ---
-Category: High Traffic/Data Collection<br/>
-Customer: Teleplan International<br/>
-Backend: Django/Python/REST<br/>
-Frontend: W2UI<br/>
-Database: ORACLE/IFS<br/>
-More: Linux scripting/Load Balancing/REDIS/Image processing/Other
-
+Skrypty linux, load balancing, przetwarzanie obrazu, REDIS, high availability, inne.
 {:.list-inline}
-- Date: Jan 2017 - Present
+- Backend: Django/Python/DRF
+- Frontend: W2UI
+- Baza danych: Oracle
+- Rok: 2017 - 2023
+- Klient: Teleplan International (Reconext)
 

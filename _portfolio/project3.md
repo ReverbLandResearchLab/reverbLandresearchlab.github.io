@@ -1,6 +1,6 @@
 ---
 title: System wizyjny robota składającego kartony
-subtitle: Płyta z procesorem ARM i dedykowanym systemem linux współpracująca z kamerą przemysłową Basler oraz ekranem. Program wykrywa pozycję kartonu w stosie z bardzo dużą dokładnością (1mm na całej wysokości stosu). Całość steruje czerwonymi doświetlaczmi przemysłowymi oraz 6-cio osiowym robotem Fanuc.
+subtitle: Mikrokomputer z procesorem ARM i dedykowanym systemem linux współpracujący z kamerą przemysłową Basler oraz ekranem. Program wykrywa pozycję kartonu w stosie z bardzo dużą dokładnością (1mm na całej wysokości stosu). Całość steruje czerwonymi doświetlaczmi przemysłowymi oraz 6-cio osiowym robotem Fanuc.
 image: assets/img/portfolio/cardboard.jpg
 alt: Robot składający kartony
 

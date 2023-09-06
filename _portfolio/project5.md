@@ -9,8 +9,8 @@ caption:
   subtitle: 
   thumbnail: assets/img/portfolio/metalwit_oee_sm_th.jpg
 ---
-{:.list-inline}
 Zbieranie danych z maszyn CNC, dedykowane panele dotykowe do obslugi systemu, dashboardy. Dedykowana dystrybucja linux oraz niestandardowa konfiguracja sieci, zasilanie PoE.
+{:.list-inline}
 - Kategoria: Aplikacja web
 - Backend: Django/Python
 - Frontend: W2UI
