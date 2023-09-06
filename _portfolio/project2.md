@@ -1,18 +1,14 @@
 ---
-title: Quality control using Machine Learning
-subtitle: Touch panel based on Raspberry Pi CM4, used for object detection and validation with special trained model, in real time. Camera streams image to panel and display validation results. If detected object is incorrect, panel displays alert with confirmation.
+title: Kontrola jakości przy użyciu Machine Learning
+subtitle: Panel dotykowy oparty o Raspberry Pi CM4, użyty celem wykrywania oceny jakości objektów w czasie rzeczywistym przy użyciu wytrenowanego przez nas modelu. Kamera przesyła obraz do panelu, wraz z rezultaten oceny oraz steruje zapadnią na stanowisku.
 image: assets/img/portfolio/quality.jpg
-alt: Keep Exploring
+alt: Kontrola jakości
 
 caption:
-  title: Quality control using Machine Learning
+  title: Kontrola jakości przy użyciu Machine Learning
   subtitle: 
   thumbnail: assets/img/portfolio/quality_th.jpg
 ---
-Touch panel based on Raspberry Pi CM4, used for object detection and validation with special trained model, in real time. Camera streams image to panel and display validation results. If detected object is incorrect, panel displays alert with confirmation.
-
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+- Rok: 2022
+- Klient: Metalwit Robots Lab

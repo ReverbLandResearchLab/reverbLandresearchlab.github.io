@@ -1,18 +1,15 @@
 ---
-title: Vision system for riveting machine
-subtitle: Product placement in riveting machine using our smart camera. Very high precision (0.01 mm). Additional quality check and fast response time. STM-32 Camera with MicroPython on board. Works with Fanuc Robot using socket messaging communication. The camera also has a connector to power light with 24V which can be controlled using our board. Everything is enclosed in metal case with lens mount.
+title: System wizyjny maszyny nitującej
+subtitle: Pozycjonowanie produktu w nitownicy przy użyciu naszej "Smart" kamery. Bardzo wysoka precyzja (0.01 mm). Dodatkowa ocena jakości oraz bardzo szybka odpowiedź. Kamera z procesorem STM-32 oprogramowana w MicroPython. Komunikacja "Socket Messaging" z robotem Fanuc. Kamera posiada równieź złącze do sterowania doświetlaczami. Wszystko opakowane w schludną obudowę wykonaną z aluminium w technologii CNC.
 image: assets/img/portfolio/riveting.jpg
-alt: 
+alt: Inteligentna nitownica
 
 caption:
-  title: Vision system for riveting machine
+  title: System wizyjny maszyny nitującej
   subtitle: 
   thumbnail: assets/img/portfolio/riveting_th.jpg
 ---
-Product placement in riveting machine using our smart camera. Very high precision (0.01 mm). Additional quality check and fast response time. STM-32 Camera with MicroPython on board. Works with Fanuc Robot using socket messaging communication. The camera also has a connector to power light with 24V which can be controlled using our board. Everything is enclosed in metal case with lens mount.
-
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Rok: 2022
+- Klient: Metalwit Robots Lab
 

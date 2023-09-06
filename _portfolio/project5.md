@@ -1,20 +1,19 @@
 ---
-title: Metalwit OEE/WMS
-subtitle: OEE data collection and WMS
+title: Dedykowany system OEE/WMS
+subtitle: Zbieranie danych dla wskaźników OEE oraz system magazynowy.
 image: assets/img/portfolio/metalwit_oee_sm.jpg
-alt: 
+alt: System OEE/WMS
 
 caption:
-  title: Metalwit OEE/WMS
+  title: Dedykowany system OEE/WMS
   subtitle: 
   thumbnail: assets/img/portfolio/metalwit_oee_sm_th.jpg
 ---
-Category: Webapp<br>
-Customer: Metalwit<br>
-Backend: Django/Python<br>
-Frontend: W2UI<br>
-Database: Postres<br>
-More: Data collection from CNC machines, custom touch panels and dashboards. Custom linux nodes and network.<br>
-
 {:.list-inline}
-- Date: Jan 2019 - Dec 2021
+Zbieranie danych z maszyn CNC, dedykowane panele dotykowe do obslugi systemu, dashboardy. Dedykowana dystrybucja linux oraz niestandardowa konfiguracja sieci, zasilanie PoE.
+- Kategoria: Aplikacja web
+- Backend: Django/Python
+- Frontend: W2UI
+- Baza danych: Postgres
+- Rok: 2019 - 2021
+- Klient: Metalwit

@@ -1,18 +1,14 @@
 ---
-title: Vision system for cardboard folding robot
-subtitle: ARM CPU board with linux, working with Basler camera and live preview with web interface. Program calculate cardboard position in 3D space and distance which can be measured with very high precision (1mm on entire stack's height). All working with red light and communicating with 6-axis Fanuc robot.
+title: System wizyjny robota składającego kartony
+subtitle: Płyta z procesorem ARM i dedykowanym systemem linux współpracująca z kamerą przemysłową Basler oraz ekranem. Program wykrywa pozycję kartonu w stosie z bardzo dużą dokładnością (1mm na całej wysokości stosu). Całość steruje czerwonymi doświetlaczmi przemysłowymi oraz 6-cio osiowym robotem Fanuc.
 image: assets/img/portfolio/cardboard.jpg
-alt: 
+alt: Robot składający kartony
 
 caption:
-  title: Vision system for cardboard folding robot
+  title: System wizyjny robota składającego kartony
   subtitle: 
   thumbnail: assets/img/portfolio/cardboard_th.jpg
 ---
-ARM CPU board with linux, working with Basler camera and live preview with web interface. Program calculate cardboard position in 3D space and distance which can be measured with very high precision (1mm on entire stack's height). All working with red light and communicating with 6-axis Fanuc robot.
-
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
-
+- Rok: 2022
+- Klient: Metalwit Robots Lab

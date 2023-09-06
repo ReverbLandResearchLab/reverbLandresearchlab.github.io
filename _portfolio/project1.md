@@ -1,16 +1,14 @@
 ---
-title: Custom smart cameras
-subtitle: Our 5MP ARM based smart camera with ethernet interface and light control. Programmed in MicroPython. Capable of direct socket communication with Fanuc (and other) robots.
+title: Dedykowane "Smart" kamery
+subtitle: Nasza, oparta o procesor ARM kamera 5MP wyposażona w port ethernet oraz sterowanie doświetlaczami. Programowana w MicroPython. Możliwość bezpośredniej komunikacji z robotami Fanuc (oraz innymi).
 image: assets/img/portfolio/smart.jpg
-alt: Custom smart cameras
+alt: Smart kamery
 
 caption:
-  title: Custom smart cameras
+  title: Dedykowane "Smart" kamery
   subtitle: 
   thumbnail: assets/img/portfolio/smart_th.jpg
 ---
-Our 5MP ARM based smart camera with ethernet interface and light control. Programmed in MicroPython. Capable of direct socket communication with Fanuc (and other) robots.
-
 {:.list-inline}
 - Rok: 2022
 - Klient: Metalwit Robots Lab
