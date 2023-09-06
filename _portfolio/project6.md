@@ -9,8 +9,8 @@ caption:
   subtitle: 
   thumbnail: assets/img/portfolio/system3000_th.jpg 
 ---
-Skomplikowana logika, generowanie dokumentow, powiadomienia SMS, API, integracja systemów płatności.
 {:.list-inline}
+- Skomplikowana logika, generowanie dokumentow, powiadomienia SMS, API, integracja systemów płatności.
 - Kategoria: Aplikacja web
 - Backend: Django/Python
 - Frontend: Bootstrap

@@ -9,8 +9,8 @@ caption:
   subtitle: 
   thumbnail: assets/img/portfolio/kuna_sm_th.jpg 
 ---
-Skrypty linux, load balancing, przetwarzanie obrazu, REDIS, high availability, inne.
 {:.list-inline}
+- Skrypty linux, load balancing, przetwarzanie obrazu, REDIS, high availability, inne.
 - Backend: Django/Python/DRF
 - Frontend: W2UI
 - Baza danych: Oracle

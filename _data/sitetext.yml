@@ -110,7 +110,7 @@ pl: &DEFAULT_PL
     section: team
     people:
       - name: "Daniel Górny"
-        role: "Właściciel"
+        role: "Właściciel - Senior Software Engineer"
         image: assets/img/team/daniel.jpeg
         social:
           - url: https://twitter.com/reverbrick
@@ -120,7 +120,7 @@ pl: &DEFAULT_PL
           - url: https://www.linkedin.com/in/daniel-g%C3%B3rny-0a273284
             icon: fab fa-linkedin-in
       - name: "Bartosz Górny"
-        role: "Software Developer"
+        role: "Software Engineer"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
