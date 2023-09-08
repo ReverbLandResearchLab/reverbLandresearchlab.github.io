@@ -18,7 +18,7 @@
           <span class="fa-stack fa-4x">
             <i class="fas fa-circle fa-stack-2x text-primary"></i>
             {% if service.icon %}<i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>{% endif %}
-            {% if service.img %}<i class="fa-stack-1x fa-inverse"><img style="width:80px; padding-bottom:13px" src="/assets/img/{{ service.img }}"/></i>{% endif %}
+            {% if service.img %}<i class="fa-stack-1x fa-inverse"><img style="width:80px; padding-bottom:13px" alt="{{ service.title }}" src="/assets/img/{{ service.img }}"/></i>{% endif %}
           </span>
           <h4 class="service-heading">{{ service.title | markdownify }}</h4>
           {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
