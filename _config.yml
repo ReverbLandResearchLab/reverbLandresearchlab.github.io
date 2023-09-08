@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : ReverbLand Research Lab
 email      : dadmin.dgor@gmail.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+description: "Nasza firma specjalizuje się w tworzeniu elektroniki i programów na miarę, a także prowadzi działalność badawczą. Oferujemy usługi z zakresu projektowania układów elektronicznych, programowania mikrokontrolerów, implementacji systemów wbudowanych oraz prototypowania. Ponadto, mamy doświadczenie w obszarach takich jak wszelkiego rodzaju bazy danych, projektowanie/druk 3D, technologie backend oraz embedded. Skontaktuj się z nami, aby dowiedzieć się więcej o naszej ofercie!"
 author     : Daniel Górny
 logo:     #optional, defaults to site title
  path: assets\img\reverbland-white.png
